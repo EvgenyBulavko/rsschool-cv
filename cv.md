@@ -9,3 +9,5 @@ I'm a dedicated Junior developer. Motivated to make high-quality and readable co
 - С++
 - Java
 - C#
+### First coding example: ### 
+[https://github.com/EvgenyBulavko/Speed-Meter](https://github.com/EvgenyBulavko/Speed-Meter)
