@@ -13,3 +13,4 @@ I'm a dedicated Junior developer. Motivated to make high-quality and readable co
 [https://github.com/EvgenyBulavko/Speed-Meter](https://github.com/EvgenyBulavko/Speed-Meter)
 # Education:
 -Vitebsk State University named after P.M. Masherov 2nd year
+# English level - A2 (pre-intermediate)
